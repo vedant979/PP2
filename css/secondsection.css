@@ -1,0 +1,33 @@
+.second{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* height: 1000px; */
+}
+.left-part{
+    flex: 52%;
+}
+.right-part{
+    flex: 30%;
+    display: inline;
+    align-self: center;
+    text-align: center;
+    width: 50%;
+    margin-right: 70px;
+}
+
+.fs-3{
+    padding-bottom: 20px;
+    display: inline-block;
+    font-family: great vibes;
+    font-size: 55px;
+    font-weight: 100;
+    color: rgb(190, 97, 90);
+}
+.fs-4{
+    line-height: 38px;
+    color: rgb(92, 88, 88);
+    font-family: quicksand;
+    font-size: 22px;
+    text-align: center;
+}

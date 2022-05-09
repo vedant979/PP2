@@ -1,0 +1,60 @@
+.fourth{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.left1{
+    text-align: center;
+}
+.right1{
+    text-align: center;
+}
+.h1{
+    font-family: quicksand;
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    line-height: 90px;
+}
+.h2{
+    font-family: quicksand;
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    line-height: 90px;
+}
+.para1,.para2{
+    font-family: quicksand;
+    font-size: 18px;
+}
+.contact{
+    color:rgb(190, 97, 90) ;
+}
+.contact:hover{
+    color: rgb(44, 28, 28);
+}
+.sixth{
+    line-height: 60px;
+    padding: 50px;
+    text-align: center;
+    font-family: quicksand;
+    color: rgb(92, 88, 88);
+}
+.h4{
+    letter-spacing: 5px;
+}
+.icons{
+    letter-spacing: 78px;
+}
+.seventh{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: rgb(51, 51, 51);
+    font-family: quicksand;
+    font-size: 11px;
+    color: rgb(169, 169, 169);
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    padding-top: 57px;
+    padding-bottom: -20px;
+}
