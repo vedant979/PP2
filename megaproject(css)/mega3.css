@@ -1,0 +1,151 @@
+.third{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #e8f7f2;  
+    position: relative;
+    padding-top:80px;
+    padding-bottom: 80px;
+}
+.bgcolor2{
+    background-color: #e8f7f2; 
+}
+.border{
+    /* flex: 10%; */
+    position: absolute;
+    border-right: 1px dashed #a3a3a3;
+    height: 130px; 
+    bottom: 88px;
+    top: px;
+    left: 500px;
+}
+
+.beside{
+    margin-left: 60px;
+    flex:15%;
+}
+.bandaid{
+    margin: 0px 250px; 
+}
+.h30{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 0px 197px; 
+    padding-top: 10px;
+}
+.anchor5{
+    font-family: sans-serif;
+    font-size: 19px;
+  line-height: 40px;
+    margin: 0px 165px; 
+}
+.li{
+    position: relative;
+padding-top: 20px;
+}
+.li:before{
+    position: absolute;
+    content: ">";
+    width: 20px;
+    left: -30px;
+    top: 20px;
+    color:#656666 ;
+}
+
+.a6{
+    text-decoration: none;
+    margin-top: 60px;
+    color: #075290;
+}
+.a6:hover{
+    text-decoration: underline;
+    color: #075290;
+}
+.patient{
+    margin-left: 80px;
+}
+.h31{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 5px;
+    padding-top: 8px;
+}
+.anchor6{
+    font-family: sans-serif;
+    font-size: 19px;
+  line-height: 40px;
+}
+.a7{
+    text-decoration: none;
+    color: #075290;
+}
+.a7:hover{
+    text-decoration: underline;
+    color: #075290;
+}
+.li1{
+    position: relative;
+padding-top: 20px;
+margin-left: -20px;
+}
+.li1:before{
+    position: absolute;
+    content: ">";
+    width: 20px;
+    left: -30px;
+    top: 20px;
+    color:#656666 ;
+}
+.border2{
+    position: absolute;
+    border-right: 1px dashed #a3a3a3;
+    height: 135px; 
+    bottom: 88px;
+    top: px;
+    left: 990px;
+}
+.main2{
+    margin-left: -50px;
+    flex: 1%;
+    /* position: relative; */
+}
+.distance{
+    margin-right: 250px;
+}
+.h32{
+    margin-left: -30px;
+    padding-top: 5px;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    left: 77%;
+}
+.anchor7{
+    position: absolute;
+    top:43%;
+    left: 73%;
+    padding-top: 30px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+.a8{
+    position:relative ;
+    text-decoration: none;
+    color: #075290;
+    line-height: 60px;
+}
+.a8::before{
+    content: ">";
+    position: absolute;
+    left: -30px;
+}
+.a8:hover{
+    text-decoration: underline;
+    color: #075290;
+}
+.side2{
+    margin-left: -40px;
+}

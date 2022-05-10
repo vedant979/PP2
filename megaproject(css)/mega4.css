@@ -1,0 +1,83 @@
+.fourth{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    background-color: white;
+    padding-bottom: 60px;
+}
+.bgcolor3{
+    background-color: white;
+}
+.side3{
+    flex: 30%;
+    padding-top: 60px;
+    padding-left: 150px;
+}
+.h40{
+    position: relative;
+    font-size: 30px;
+    font-weight: 400;
+}
+.h40::after{
+    position: absolute;
+    content: "";
+    left    : 4px;
+    bottom  : 0;
+    width   : 3%;  
+    top: 40px;
+    border-bottom: 3px solid teal;
+}
+.anchor8{
+    padding-top: 20px;
+    margin-left: -35px;
+    line-height: -10px;
+}
+.a9{
+    text-decoration: none;
+    color: #075290;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.a9:hover{
+    text-decoration: underline;
+    color: #075290;
+}
+.li3{
+    position: relative;
+    line-height: 50px;
+}
+.li3::before{
+    position: absolute;
+    content: ">";
+    left: 65%;
+    top: 1px;
+    width: 10px;
+    color: #656666;
+    font-size: 19px;
+}
+.button0{
+   font-family: sans-serif;
+   font-size: 45px;
+   margin-left: 8px;
+}
+.travel{
+    padding: 12px;
+    /* padding-bottom: -10px; */
+    font-family: sans-serif;
+    /* font-weight: 400; */
+    font-size: 17px;
+    border: 1px solid teal;
+    border-radius: 4px ;
+    color: teal;
+    background-color:#f9fbfc;
+}
+.travel:hover{
+    background-color: teal;
+color: white;
+}
+.travelpic{
+    flex: 1%;
+    float: right;
+    padding-top: 50px;
+    margin-right: 250px;
+}
